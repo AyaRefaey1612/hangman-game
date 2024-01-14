@@ -1,0 +1,11 @@
+{
+    "programming":["HTML", "JS", "NODE.js", "PHP", "GO", "PYTHON", "SCAL", "C++", "Java"],
+    "countries":["Syria", "Iraq", "Egypt", "Lebanon", "Qatar", "Palestine"],
+    "people":["Abdel Moneim Madbouly", "Shadia", "Ahmed Helmy", "Nour ElSherif", "Hana El Zahed"],
+    "movies":["The Blue Elephant", "Keda Reda", "X Large", "COCO", "UP"],
+    "books":["Atomic Habits" ,"Thinking Fast and Slow", "How to Stop Worrying and Start Living" ,"How to Win Friends and Influence People "],
+    "food":["sushi" ,"caviar", "pizza"],
+    "places":["cinma", "Coffee Shop", "Mall", "Movie Theater"],
+    "cloths":["shirt", "pants", "T shirt", "socks"]
+    
+}
