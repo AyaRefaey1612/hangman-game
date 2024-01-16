@@ -14,7 +14,7 @@ lettersArray.forEach(letter => {
 });
 
 
-fetch("hang.json")
+fetch("main.json")
 .then((response)=>(response.json()))
 .then((words)=>{
     console.log(words);
